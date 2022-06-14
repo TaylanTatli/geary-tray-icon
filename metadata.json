@@ -1,7 +1,9 @@
 {
+  "uuid": "geary-tray-icon@taylantatli.github.com",
   "name": "Geary Tray Icon",
   "description": "Show a tray icon for Geary",
-  "uuid": "geary-tray-icon@taylantatli.github.com",
+  "version": 2,
+  "url": "https://github.com/TaylanTatli/geary-tray-icon",
   "shell-version": [
     "3.38",
     "40",
