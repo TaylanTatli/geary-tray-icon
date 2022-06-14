@@ -3,6 +3,9 @@
   "description": "Show a tray icon for Geary",
   "uuid": "geary-tray-icon@taylantatli.github.com",
   "shell-version": [
-    "3.38"
+    "3.38",
+    "40",
+    "41",
+    "42"
   ]
 }

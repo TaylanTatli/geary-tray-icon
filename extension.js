@@ -21,7 +21,7 @@ class Indicator extends PanelMenu.Button {
 
         let box = new St.BoxLayout({ style_class: 'panel-status-menu-box' });
         box.add_child(new St.Icon({
-            icon_name: 'mail-unread-symbolic',
+            icon_name: 'mail-mark-unread-symbolic',
             style_class: 'system-status-icon',
         }));
         box.add_child(PopupMenu.arrowIcon(St.Side.BOTTOM));
